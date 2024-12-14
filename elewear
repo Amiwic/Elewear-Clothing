@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elewear - Under Construction</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f7f5f2;
+            color: #333;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            max-width: 600px;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #333;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 15px 0;
+        }
+        .cta {
+            margin-top: 20px;
+        }
+        a {
+            color: #d1a054;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>We're Building Something Amazing!</h1>
+        <p>Our website is under construction. Stay tuned for updates and exciting collections, including <strong>The Oversized Ele!</strong></p>
+        <p class="cta">Follow us on <a href="https://instagram.com/yourhandle" target="_blank">Instagram</a> or <a href="https://facebook.com/yourhandle" target="_blank">Facebook</a>.</p>
+    </div>
+</body>
+</html>
